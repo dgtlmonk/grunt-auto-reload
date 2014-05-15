@@ -1,0 +1,19 @@
+{
+  "name": "d1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dgtlmonk/grunt-auto-reload",
+  "authors": [
+    "Joel Pablo <joel.pablo@digitalmonkstudio.com>"
+  ],
+  "description": "angular directive exercise 1",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
