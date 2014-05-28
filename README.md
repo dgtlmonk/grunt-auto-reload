@@ -3,7 +3,7 @@ Grunt auto-reload boilerplate
 ================================================
 
 
-### My typical Grunt boilerplate for an app.
+##### My Grunt boilerplate for an app or a test app. 
 
 npm install
 
