@@ -1,6 +1,9 @@
 ================================================
-Grunt auto-reload boiler plate
+Grunt auto-reload boilerplate
 ================================================
+
+
+### My typical Grunt boilerplate for an app.
 
 npm install
 
@@ -8,4 +11,6 @@ bower install
 
 http://localhost:9001
 
-docroot at ./public/ relative to gruntfile.js
+Document root at ./public/ relative to Gruntfile.js
+
+License MIT
