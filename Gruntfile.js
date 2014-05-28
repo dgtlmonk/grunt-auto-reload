@@ -40,7 +40,7 @@ module.exports = function(grunt) {
 
      grunt.registerTask('serve',[
         'express',
-        // 'open',
+        'open',
         'watch'
      ]);
 };
