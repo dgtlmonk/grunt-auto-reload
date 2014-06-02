@@ -4,9 +4,9 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-contrib-watch": "*",
-    "grunt-express": "*",
-    "grunt-open": "*",
+    "grunt-contrib-watch": "latest",
+    "grunt-express": "latest",
+    "grunt-open": "latest",
     "matchdep": "~0.1.2",
     "ui-router": "0.0.1"
    }
